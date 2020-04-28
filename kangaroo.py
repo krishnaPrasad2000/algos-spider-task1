@@ -3,7 +3,9 @@ x1=a[0]
 x2=a[2]
 v1=a[1]
 v2=a[3]
-if(x2>x1 and v2>v1):
+if (x1!=x2 and v1==v22)
+    print("YES")
+elif(x2>x1 and v2>v1):
     print("NO")
 elif(x1>x2 and v1>v2):
     print("NO")
